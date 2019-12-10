@@ -1,11 +1,11 @@
 # Site settings
 author: Nilan Lovelace
-title: 
+title: NLNLVLC - DS
 header-img: img/home-bg.png
 email: nilanlovelace@gmail.com
 copyright_name: Nilan Lovelace
 description: > # this means to ignore newlines until "baseurl:"
-  
+   
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nlnlvlc

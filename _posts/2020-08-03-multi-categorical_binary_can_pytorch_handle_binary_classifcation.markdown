@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Multi-Categorical Binary: Can PyTorch Handle Binary Classifcation?"
-date:       2020-08-03 11:25:43 +0000
+date:       2020-08-03 07:25:43 -0400
 permalink:  multi-categorical_binary_can_pytorch_handle_binary_classifcation
 ---
 
@@ -33,7 +33,7 @@ Using classes enables you to pass configuration arguments at instantiation time,
 loss_fn = keras.losses.SparseCategoricalCrossentropy(from_logits=True)
 ```
 
- #### Writing a PyTorch Model
+#### Writing a PyTorch Model
  
  ```
  class melanomaClassifier(nn.Module):
